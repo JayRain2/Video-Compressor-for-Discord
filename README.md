@@ -1,14 +1,9 @@
 # Simple Video Compressor for Discord
 
-I was bored and created this tool to compress video to fit Discord policy
+This fork was created because Discord's limits have changed recently (500mb for Nitro, 50mb for Nitro Basic, 10mb for Free)
 
 ---
 
-## Getting Started
-
-Download [TransCord.zip](https://github.com/Mightypotatoast/Video-Compressor-for-Discord/releases)
-
-extract it anywhere
 
 ### Prerequisites
 
